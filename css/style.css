@@ -28,7 +28,7 @@ img{
 }
 
 div{
-    height: 150px;
+    min-height: 150px;
     padding: 25px
 }
 
@@ -45,6 +45,7 @@ div{
 #yellow{
     background: #FFFF00;
     text-align: right;
+
     
 } 
 
